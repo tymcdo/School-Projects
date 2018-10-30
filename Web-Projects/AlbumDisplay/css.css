@@ -1,0 +1,229 @@
+body {
+    background-color: whitesmoke;
+    width: 768px;
+    font-family: Arial;
+    line-height: 100%;
+}
+
+#welcome {
+    height: 165px;
+}
+
+#welcome > div:nth-of-type(1){
+    font-size: 62px;
+    line-height: 80%;
+}
+#welcome > div:nth-of-type(2){
+    font-size: 72px;
+    font-weight: bold;
+    padding-left: 55px;
+    line-height: 80%;
+    display: flex;
+    flex-direction: row;
+}
+
+#welcome > div:nth-of-type(2) > div:nth-of-type(1), #welcome > div:nth-of-type(2) > div:nth-of-type(2){
+    display: flex;
+    flex-direction: row;
+    width: auto;
+}
+
+#welcome > div:nth-of-type(3){
+    font-size: 40px;
+    padding-left: 125px;
+    line-height: 80%;
+}
+
+#count {
+    padding-top: 20px;
+    font-size: 35px;
+    font-weight: normal;
+    line-height: normal;
+    text-align: center;
+}
+
+#collection {
+    border-style: solid;
+    height: 25px;
+}
+
+.item {
+    border: solid;
+    border-radius: 5px;
+    min-height: 25px;
+    margin-bottom: 2px;
+    display: flex;
+    flex-direction: row;
+}
+
+.item:nth-of-type(odd){
+    background-color: lightcyan;
+}
+
+.item:nth-of-type(even){
+    background-color: azure;
+}
+
+.item > div:nth-of-type(1){
+    border-right: solid;
+    display: flex;
+    width: 155px;
+    padding: 2px;
+}
+
+.item > div:nth-of-type(7){
+    display: flex;
+    width: 155px;
+    padding: 2px;
+}
+
+.item > div:nth-of-type(2){
+    border-right: solid;
+    display: flex;
+    width: 125px;
+    padding: 2px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.item > div:nth-of-type(5), .item > div:nth-of-type(6) {
+    border-right: solid;
+    display: flex;
+    width: 80px;
+    padding: 2px;
+}
+
+.item > div:nth-of-type(3){
+    border-right: solid;
+    display: flex;
+    width: 65px;
+    padding: 2px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.item > div:nth-of-type(4) {
+    border-right: solid;
+    display: flex;
+    width: 100px;
+    padding: 2px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.boldIt {
+    font-weight: bold;
+    text-align: center;
+}
+
+#allList {
+    width: 200px;
+    height: auto;
+    background-color: darkgrey;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+#dateList {
+    width: 200px;
+    height: auto;
+    background-color: darkgrey;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+#buttons {
+    display: flex;
+    flex-direction: row;
+    margin-right: 50px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    justify-content: space-between;
+}
+
+#years {
+    width: 200px;
+}
+
+.itemHeader {
+    border: solid;
+    border-radius: 5px;
+    min-height: 25px;
+    margin-bottom: 2px;
+    display: flex;
+    flex-direction: row;
+}
+
+.itemHeader:nth-of-type(odd){
+    background-color: black;
+    color: white;
+}
+
+.itemHeader:nth-of-type(even){
+    background-color: azure;
+}
+
+.itemHeader > div:nth-of-type(1){
+    border-right: solid;
+    display: flex;
+    width: 155px;
+    padding: 2px;
+}
+
+.itemHeader > div:nth-of-type(7){
+    display: flex;
+    width: 155px;
+    padding: 2px;
+}
+
+.itemHeader > div:nth-of-type(2){
+    border-right: solid;
+    display: flex;
+    width: 125px;
+    padding: 2px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.itemHeader > div:nth-of-type(5), .itemHeader > div:nth-of-type(6) {
+    border-right: solid;
+    display: flex;
+    width: 80px;
+    padding: 2px;
+}
+
+.itemHeader > div:nth-of-type(3){
+    border-right: solid;
+    display: flex;
+    width: 65px;
+    padding: 2px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.itemHeader > div:nth-of-type(4) {
+    border-right: solid;
+    display: flex;
+    width: 100px;
+    padding: 2px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

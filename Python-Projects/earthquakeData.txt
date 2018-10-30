@@ -1,0 +1,253 @@
+# See API at http://earthquake.usgs.gov/fdsnws/event/1/
+# Table below results from this query:  http://earthquake.usgs.gov/fdsnws/event/1/query?format=text&starttime=2016-01-01&endtime=2016-01-02
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName
+ak12383570|2016-01-01 23:52:04.000|53.237|-168.3619|12.1|ak|ak|ak|ak12383570|ml|2.2|ak|47km NE of Nikolski, Alaska
+ci37509488|2016-01-01 23:41:23.670|34.2031667|-117.4028333|2.99|ci|ci|ci|ci37509488|ml|0.6|ci|2km S of Devore, California
+us10004ddg|2016-01-01 23:17:29.490|26.5711|55.1188|10|us|us|us|us10004ddg|mb|4.3|us|23km E of Bandar-e Lengeh, Iran
+us10004asf|2016-01-01 23:15:58.850|35.9688|-97.4016|5|us|us|us|us10004asf|mb_lg|3.2|us|10km NNE of Guthrie, Oklahoma
+us10004bmy|2016-01-01 23:13:33.210|53.9447|-160.2874|33.66|us|us|us|us10004bmy|ml|3.4|us|105km SSW of Chernabura Island, Alaska
+us10004ddf|2016-01-01 23:07:53.810|-4.7301|139.8842|15.32|us|us|us|us10004ddf|mb|4.6|us|156km NNW of Tanahmerah, Indonesia
+us10004asd|2016-01-01 23:04:52.280|-20.5653|-179.1565|642.75|us|us|us|us10004asd|mb|5|us|48km W of Ndoi Island, Fiji
+mb80118319|2016-01-01 23:04:15.380|46.0053333|-111.4053333|5.84|mb|mb|mb|mb80118319|ml|1.05|mb|16km NE of Three Forks, Montana
+nn00525082|2016-01-01 22:55:40.445|41.8871|-119.6086|6.9|nn|nn|nn|nn00525082|ml|1.6|nn|69km ESE of Lakeview, Oregon
+us10004as8|2016-01-01 22:40:26.600|35.9533|-97.3969|6.886|tul|us|us|us10004as8|ml|3.1|tul|8km NNE of Guthrie, Oklahoma
+ci37509480|2016-01-01 22:39:13.790|36.1483333|-117.9835|1.35|ci|ci|ci|ci37509480|ml|2.45|ci|12km NNW of Coso Junction, California
+us10004bn0|2016-01-01 22:36:52.220|55.7628|-157.9431|52.71|us|us|us|us10004bn0|mb|4|us|74km SE of Chignik Lake, Alaska
+nn00525078|2016-01-01 22:36:13.066|38.287|-118.3768|7.8|nn|nn|nn|nn00525078|ml|0.3|nn|34km SE of Hawthorne, Nevada
+ak12382599|2016-01-01 22:29:54.000|63.0651|-149.076|73.8|ak|ak|ak|ak12382599|ml|1.4|ak|36km S of Cantwell, Alaska
+uu60134752|2016-01-01 22:27:51.270|40.731|-112.0581667|0.12|uu|uu|uu|uu60134752|md|0.58|uu|4km ENE of Magna, Utah
+nc72572440|2016-01-01 22:19:13.580|37.7226667|-121.981|8.94|nc|nc|nc|nc72572440|md|1.58|nc|4km WNW of Dublin, California
+mb80118459|2016-01-01 22:17:16.760|46.0135|-111.4076667|8.16|mb|mb|mb|mb80118459|ml|0.95|mb|17km NE of Three Forks, Montana
+ak12382576|2016-01-01 22:12:01.000|60.611|-141.2047|8|ak|ak|ak|ak12382576|ml|1.2|ak|90km NE of Cape Yakataga, Alaska
+mb80118529|2016-01-01 22:11:50.340|46.7818333|-114.1701667|2.17|mb|mb|mb|mb80118529|md|0.63|mb|7km WNW of Lolo, Montana
+us10004as5|2016-01-01 22:08:04.700|35.6661|-97.3992|6.696|tul|us|us|us10004as5|ml|3|tul|7km ENE of Edmond, Oklahoma
+ak12439428|2016-01-01 21:59:35.000|61.3331|-151.3169|67.2|ak|ak|ak|ak12439428|ml|1.7|ak|71km N of Nikiski, Alaska
+us10004as0|2016-01-01 21:49:40.090|-9.0125|158.3119|14.82|us|us|us|us10004as0|mb|4.9|us|132km SW of Dadali, Solomon Islands
+pr16001006|2016-01-01 21:49:18.000|19.1611|-66.408|22|pr|pr|pr|pr16001006|Md|2.8|pr|77km N of Brenas, Puerto Rico
+nc72572435|2016-01-01 21:49:07.330|38.8223343|-122.8264999|2.27|nc|nc|nc|nc72572435|md|0.86|nc|7km NW of The Geysers, California
+nn00524999|2016-01-01 21:43:58.512|41.8511|-119.6133|8.6|nn|nn|nn|nn00524999|ml|1.8|nn|71km ESE of Lakeview, Oregon
+ak12381653|2016-01-01 21:32:57.000|61.6528|-150.0509|39.1|ak|ak|ak|ak12381653|ml|1.7|ak|10km S of Willow, Alaska
+ci37509472|2016-01-01 21:29:23.940|36.0211667|-117.7723333|1.9|ci|ci|ci|ci37509472|ml|0.64|ci|15km NE of Little Lake, California
+us10004ary|2016-01-01 21:28:35.740|44.7496|147.6296|113.08|us|us|us|us10004ary|mb|4.3|us|57km SSW of Kuril'sk, Russia
+nc72572430|2016-01-01 21:27:38.030|38.8188324|-122.8176651|2.9|nc|nc|nc|nc72572430|md|0.54|nc|7km NW of The Geysers, California
+nn00525081|2016-01-01 21:26:43.545|38.5133|-118.4098|5|nn|nn|nn|nn00525081|ml|0.2|nn|18km E of Hawthorne, Nevada
+ak12381652|2016-01-01 21:26:28.000|63.25|-144.7371|7.8|ak|ak|ak|ak12381652|ml|0.7|ak|73km SSE of Deltana, Alaska
+ak12381626|2016-01-01 21:24:14.000|62.9391|-149.503|75.4|ak|ak|ak|ak12381626|ml|1.8|ak|57km SSW of Cantwell, Alaska
+ci37509464|2016-01-01 21:17:46.870|33.489|-116.4958333|11.06|ci|ci|ci|ci37509464|ml|0.42|ci|18km ESE of Anza, California
+nn00524992|2016-01-01 21:07:41.610|39.7524|-119.5464|2.9|nn|nn|nn|nn00524992|ml|1|nn|17km NE of Spanish Springs, Nevada
+mb80118534|2016-01-01 21:02:39.380|46.0118333|-111.4083333|5.89|mb|mb|mb|mb80118534|md|0.41|mb|17km NE of Three Forks, Montana
+nc72572425|2016-01-01 21:02:19.640|38.8178333|-122.7853333|2.05|nc|nc|nc|nc72572425|md|0.22|nc|5km W of Cobb, California
+ak12381608|2016-01-01 21:02:16.000|63.0638|-151.5006|8.7|ak|ak|ak|ak12381608|ml|1.2|ak|108km NW of Talkeetna, Alaska
+nn00524991|2016-01-01 20:59:37.056|41.8599|-119.6128|8.9|nn|nn|nn|nn00524991|ml|2.2|nn|70km ESE of Lakeview, Oregon
+nc72572420|2016-01-01 20:57:46.710|37.869|-122.2473333|8.65|nc|nc|nc|nc72572420|md|0.69|nc|2km E of Berkeley, California
+ak12380708|2016-01-01 20:51:38.000|58.2292|-151.3528|32.2|ak|ak|ak|ak12380708|ml|2.7|ak|79km NE of Kodiak, Alaska
+nc72572415|2016-01-01 20:50:55.450|38.8343315|-122.8178329|1.59|nc|nc|nc|nc72572415|md|0.56|nc|8km W of Cobb, California
+mb80118464|2016-01-01 20:34:37.530|45.0291667|-111.8481667|5.86|mb|mb|mb|mb80118464|ml|0.84|mb|30km SSE of Virginia City, Montana
+ci37509456|2016-01-01 20:29:29.600|34.1713333|-117.4205|2.79|ci|ci|ci|ci37509456|ml|0.68|ci|6km SSW of Devore, California
+us10004ark|2016-01-01 20:28:07.600|35.8209|-97.4362|5.632|tul|us|us|us10004ark|ml|3.4|tul|6km S of Guthrie, Oklahoma
+us10004as7|2016-01-01 20:24:16.340|54.467|-160.782|21.9|ak|us|us|us10004as7|ml|3.1|ak|86km WSW of Chernabura Island, Alaska
+pr16001004|2016-01-01 20:19:09.700|19.385|-65.7536|61|pr|pr|pr|pr16001004|Md|2.7|pr|106km N of Loiza, Puerto Rico
+mb80118309|2016-01-01 20:16:12.360|46.0178333|-111.4243333|5|mb|mb|mb|mb80118309|ml|1.68|mb|17km NE of Three Forks, Montana
+ak12380655|2016-01-01 20:03:35.000|51.6527|-176.398|64.7|ak|ak|ak|ak12380655|ml|2.1|ak|31km SE of Adak, Alaska
+nc72572400|2016-01-01 20:02:39.870|40.1755|-122.2288333|32.75|nc|nc|nc|nc72572400|md|2.56|nc|0km ESE of Red Bluff, California
+ci37509448|2016-01-01 20:01:02.030|32.7835|-116.074|9.18|ci|ci|ci|ci37509448|ml|1.1|ci|9km NW of Ocotillo, California
+mb80118304|2016-01-01 19:49:46.900|46.0171667|-111.423|5|mb|mb|mb|mb80118304|md|1.15|mb|17km NE of Three Forks, Montana
+nc72572395|2016-01-01 19:43:08.500|38.8043333|-122.8126667|2.63|nc|nc|nc|nc72572395|md|0.2|nc|5km WNW of The Geysers, California
+hv61140076|2016-01-01 19:38:33.850|19.9266663|-155.5551605|15.47|hv|hv|hv|hv61140076|ml|2.8|hv|16km SE of Waimea, Hawaii
+mb80118469|2016-01-01 19:32:45.320|45.9951667|-111.3923333|5.72|mb|mb|mb|mb80118469|md|0.46|mb|16km NE of Three Forks, Montana
+nc72572390|2016-01-01 19:28:28.370|37.4221667|-118.5745|15.35|nc|nc|nc|nc72572390|md|0.67|nc|12km WNW of West Bishop, California
+us10004are|2016-01-01 19:23:29.780|-41.1025|-88.8877|10|us|us|us|us10004are|mb|4.5|us|West Chile Rise
+ci37509440|2016-01-01 19:18:49.910|33.2593333|-116.26|6.74|ci|ci|ci|ci37509440|ml|0.97|ci|11km E of Borrego Springs, California
+us10004dde|2016-01-01 19:16:32.310|6.2071|123.9268|548.91|us|us|us|us10004dde|mb|4|us|29km W of Palimbang, Philippines
+nc72572385|2016-01-01 19:11:38.410|38.8236656|-122.8424988|1.58|nc|nc|nc|nc72572385|md|0.46|nc|9km NW of The Geysers, California
+nn00524995|2016-01-01 19:10:43.819|36.6498|-116.9766|7.8|nn|nn|nn|nn00524995|ml|-0.1|nn|34km SW of Beatty, Nevada
+us10004ddl|2016-01-01 19:02:07.670|-15.7499|-177.6941|441.29|us|us|us|us10004ddl|mb|4|us|168km SSE of Sigave, Wallis and Futuna
+ak12378813|2016-01-01 18:44:23.000|62.9553|-150.8337|104.7|ak|ak|ak|ak12378813|ml|3.3|ak|79km NNW of Talkeetna, Alaska
+nc72572375|2016-01-01 18:35:44.120|38.7816667|-122.7793333|1.51|nc|nc|nc|nc72572375|md|0.33|nc|2km WNW of The Geysers, California
+nc72572370|2016-01-01 18:22:24.470|38.039|-122.2251667|7.58|nc|nc|nc|nc72572370|md|0.64|nc|1km SW of Crockett, California
+ci37509432|2016-01-01 18:08:42.000|33.5038333|-116.5426667|12.19|ci|ci|ci|ci37509432|ml|1.03|ci|13km ESE of Anza, California
+nc72572360|2016-01-01 17:57:33.730|38.0653333|-122.2413333|8.04|nc|nc|nc|nc72572360|md|0.94|nc|2km WNW of Crockett, California
+nc72572355|2016-01-01 17:54:09.720|38.8238335|-122.8461685|1.86|nc|nc|nc|nc72572355|md|0.68|nc|9km WNW of The Geysers, California
+us10004ddd|2016-01-01 17:30:30.950|-17.477|-178.8778|548.9|us|us|us|us10004ddd|mb|4.8|us|219km ESE of Lambasa, Fiji
+mb80118474|2016-01-01 17:24:32.220|46.0118333|-111.4131667|5|mb|mb|mb|mb80118474|md|0.7|mb|17km NE of Three Forks, Montana
+uw61115536|2016-01-01 17:24:25.500|46.595|-119.8446667|6.663|uw|uw|uw|uw61115536|md|-0.45|uw|10km SSE of Desert Aire, Washington
+us10004ar8|2016-01-01 17:15:42.870|0.4792|-78.7732|27.1|us|us|us|us10004ar8|mb|4.8|us|59km WNW of Cotacachi, Ecuador
+nc72572350|2016-01-01 17:15:13.730|36.5605|-121.1576667|7.21|nc|nc|nc|nc72572350|md|1.32|nc|21km NE of Soledad, California
+nc72572345|2016-01-01 17:05:08.080|37.7215|-121.9778333|8.79|nc|nc|nc|nc72572345|md|1.24|nc|4km WNW of Dublin, California
+pr16001005|2016-01-01 16:57:49.300|18.2663|-68.6453|144|pr|pr|pr|pr16001005|Md|3.5|pr|12km SSW of Boca de Yuma, Dominican Republic
+ak12377834|2016-01-01 16:56:15.000|61.7551|-149.6361|41.4|ak|ak|ak|ak12377834|ml|1.8|ak|14km N of Meadow Lakes, Alaska
+nc72572340|2016-01-01 16:53:56.700|40.0351667|-123.7668333|16.88|nc|nc|nc|nc72572340|md|1.44|nc|10km SSE of Redway, California
+nc72572335|2016-01-01 16:51:38.020|38.8216667|-122.845|2.26|nc|nc|nc|nc72572335|md|1.24|nc|9km WNW of The Geysers, California
+nn00524975|2016-01-01 16:46:50.805|38.0467|-118.9536|15|nn|nn|nn|nn00524975|ml|1|nn|33km SE of Bridgeport, California
+ci37509424|2016-01-01 16:42:52.220|36.1486667|-117.987|-0.48|ci|ci|ci|ci37509424|ml|1.09|ci|12km NNW of Coso Junction, California
+pr16001003|2016-01-01 16:42:22.600|18.7698|-64.6904|37|pr|pr|pr|pr16001003|Md|2.5|pr|39km N of Road Town, British Virgin Islands
+ci37509416|2016-01-01 16:33:36.850|33.4046667|-116.2821667|1.19|ci|ci|ci|ci37509416|ml|1.73|ci|18km WSW of Oasis, California
+ak12376930|2016-01-01 16:23:12.000|63.3758|-145.6476|4|ak|ak|ak|ak12376930|ml|1.6|ak|59km SSW of Deltana, Alaska
+nn00524973|2016-01-01 15:41:01.349|36.9674|-118.2501|9.9|nn|nn|nn|nn00524973|ml|1.2|nn|22km S of Big Pine, California
+mb80118294|2016-01-01 15:21:41.410|46.0146667|-111.4145|5.77|mb|mb|mb|mb80118294|md|0.84|mb|17km NE of Three Forks, Montana
+nc72572320|2016-01-01 15:05:36.040|38.8434982|-122.8278351|1.1|nc|nc|nc|nc72572320|md|1.02|nc|9km WNW of Cobb, California
+us10004aqy|2016-01-01 15:02:16.740|-28.6278|-177.281|34|us|us|us|us10004aqy|mww|5.8|us|93km NE of Raoul Island, New Zealand
+ak12376010|2016-01-01 14:59:47.000|64.5682|-149.3744|28.2|ak|ak|ak|ak12376010|ml|0.6|ak|12km W of North Nenana, Alaska
+ci37509400|2016-01-01 14:46:22.120|33.4075|-116.2826667|0.33|ci|ci|ci|ci37509400|ml|0.87|ci|18km WSW of Oasis, California
+ak12375995|2016-01-01 14:45:31.000|63.8276|-149.1644|13.2|ak|ak|ak|ak12375995|ml|0.8|ak|10km WSW of Healy, Alaska
+nn00524968|2016-01-01 14:37:41.579|37.2493|-116.0122|6.1|nn|nn|nn|nn00524968|ml|0.8|nn|76km W of Alamo, Nevada
+ci37509392|2016-01-01 14:30:18.750|33.4871667|-116.492|13.28|ci|ci|ci|ci37509392|ml|0.51|ci|18km ESE of Anza, California
+mb80118484|2016-01-01 14:27:34.810|45.4135|-112.3381667|8.01|mb|mb|mb|mb80118484|ml|0.92|mb|32km NE of Dillon, Montana
+ak12375108|2016-01-01 14:16:58.000|61.266|-139.6482|6.7|ak|ak|ak|ak12375108|ml|1.8|ak|129km WNW of Haines Junction, Canada
+nn00524972|2016-01-01 14:12:20.569|38.5115|-118.4139|4.7|nn|nn|nn|nn00524972|ml|0.3|nn|18km E of Hawthorne, Nevada
+ak12375104|2016-01-01 14:06:45.000|61.2167|-151.2407|65.8|ak|ak|ak|ak12375104|ml|1.7|ak|58km N of Nikiski, Alaska
+ak12374215|2016-01-01 13:41:40.000|64.4083|-147.4556|9.9|ak|ak|ak|ak12374215|ml|1.1|ak|29km WSW of Salcha, Alaska
+nc72572310|2016-01-01 13:40:30.650|39.2683333|-123.2296667|6.07|nc|nc|nc|nc72572310|md|2.58|nc|2km W of Redwood Valley, California
+mb80118284|2016-01-01 13:36:54.990|46.009|-111.41|5|mb|mb|mb|mb80118284|ml|1.64|mb|17km NE of Three Forks, Montana
+mb80118279|2016-01-01 13:35:52.510|46.0125|-111.4285|0.82|mb|mb|mb|mb80118279|ml|1.22|mb|16km NE of Three Forks, Montana
+mb80118489|2016-01-01 13:30:00.900|46.0195|-111.4258333|4.02|mb|mb|mb|mb80118489|ml|0.93|mb|17km NE of Three Forks, Montana
+nc72572305|2016-01-01 13:27:32.160|38.7535|-122.73|0.57|nc|nc|nc|nc72572305|md|0.63|nc|3km SE of The Geysers, California
+mb80118274|2016-01-01 13:26:38.020|46.0185|-111.4226667|3.95|mb|mb|mb|mb80118274|ml|2.62|mb|17km NE of Three Forks, Montana
+ak12374203|2016-01-01 13:22:05.000|62.1428|-149.1795|13.5|ak|ak|ak|ak12374203|ml|2.2|ak|35km E of Y, Alaska
+ak12374194|2016-01-01 13:01:12.000|64.665|-149.1393|12.2|ak|ak|ak|ak12374194|ml|0.2|ak|9km N of North Nenana, Alaska
+ak12374189|2016-01-01 12:54:50.000|62.1232|-145.5684|18.4|ak|ak|ak|ak12374189|ml|1.6|ak|1km NW of Glennallen, Alaska
+nc72572300|2016-01-01 12:37:59.110|38.8428345|-122.8311691|2.15|nc|nc|nc|nc72572300|md|1.06|nc|9km WNW of Cobb, California
+us10004bn3|2016-01-01 12:36:14.000|52.3386|-169.407|19.2|ak|us|us|us10004bn3|ml|2.5|ak|76km SSW of Nikolski, Alaska
+ak12439408|2016-01-01 12:35:06.000|62.0317|-151.0362|64.7|ak|ak|ak|ak12439408|ml|1.4|ak|58km WSW of Talkeetna, Alaska
+ci37509384|2016-01-01 12:34:20.100|33.6006667|-116.8126667|8.4|ci|ci|ci|ci37509384|ml|0.26|ci|14km WNW of Anza, California
+nn00524962|2016-01-01 12:33:44.686|38.4922|-118.4355|8.3|nn|nn|nn|nn00524962|ml|-0.3|nn|16km ESE of Hawthorne, Nevada
+nc72572295|2016-01-01 12:31:23.140|35.7275|-121.5425|6.09|nc|nc|nc|nc72572295|md|1.71|nc|33km WNW of San Simeon, California
+us10004aqn|2016-01-01 12:25:51.710|37.1305|-97.6595|5.86|ismp|us|us|us10004aqn|ml|2.1|ismp|11km NNW of Caldwell, Kansas
+nn00524959|2016-01-01 12:23:14.950|37.4539|-115.9603|5.8|nn|nn|nn|nn00524959|ml|1|nn|71km W of Alamo, Nevada
+ak12373308|2016-01-01 12:12:27.000|64.4145|-147.4487|8.6|ak|ak|ak|ak12373308|ml|0.5|ak|28km WSW of Salcha, Alaska
+us10004dd7|2016-01-01 12:06:37.230|-5.0355|154.5541|35|us|us|us|us10004dd7|mb|4.3|us|169km NW of Arawa, Papua New Guinea
+nn00524963|2016-01-01 12:04:33.381|37.4518|-115.9837|0|nn|nn|nn|nn00524963|ml|0.3|nn|73km W of Alamo, Nevada
+us10004aqg|2016-01-01 11:39:39.800|35.6688|-97.4065|5.825|tul|us|us|us10004aqg|mwr|4.2|us|6km ENE of Edmond, Oklahoma
+nn00524961|2016-01-01 11:38:31.290|39.5965|-119.8265|2|nn|nn|nn|nn00524961|ml|-0.2|nn|2km S of Golden Valley, Nevada
+ak12373299|2016-01-01 11:35:44.000|64.6764|-148.2594|9.1|ak|ak|ak|ak12373299|ml|0|ak|22km SSW of Ester, Alaska
+mb80118254|2016-01-01 11:25:55.950|46.0178333|-111.4281667|1.2|mb|mb|mb|mb80118254|ml|1.38|mb|16km NE of Three Forks, Montana
+us10004aqc|2016-01-01 11:25:04.500|36.8042|-97.8514|5.454|tul|us|us|us10004aqc|ml|3|tul|10km W of Medford, Oklahoma
+mb80118499|2016-01-01 11:19:16.150|46.0143333|-111.4133333|5.91|mb|mb|mb|mb80118499|md|0.45|mb|17km NE of Three Forks, Montana
+us10004aqb|2016-01-01 11:16:49.860|36.5007|70.6274|202.74|us|us|us|us10004aqb|mb|4.5|us|44km SSW of Jarm, Afghanistan
+ak12439405|2016-01-01 11:11:59.000|66.0571|-141.5472|30.4|ak|ak|ak|ak12439405|ml|1.3|ak|117km ENE of Circle, Alaska
+ci37509376|2016-01-01 11:03:07.390|33.5275|-116.73|2.7|ci|ci|ci|ci37509376|ml|0.24|ci|6km WSW of Anza, California
+nc72572290|2016-01-01 11:00:21.840|38.824501|-122.8460007|1.95|nc|nc|nc|nc72572290|md|0.62|nc|9km NW of The Geysers, California
+ci37509368|2016-01-01 10:57:13.630|32.9068333|-116.3041667|9.37|ci|ci|ci|ci37509368|ml|1.05|ci|23km ENE of Pine Valley, California
+nc72572285|2016-01-01 10:54:25.460|38.7773333|-122.7555|0.95|nc|nc|nc|nc72572285|md|1.44|nc|0km E of The Geysers, California
+nn00524951|2016-01-01 10:47:47.737|38.5178|-118.4062|7.1|nn|nn|nn|nn00524951|ml|0.1|nn|19km E of Hawthorne, Nevada
+nc72572280|2016-01-01 10:47:32.160|38.8381653|-122.8290024|2.14|nc|nc|nc|nc72572280|md|0.32|nc|9km W of Cobb, California
+nn00524960|2016-01-01 10:42:37.825|37.1662|-117.5575|10|nn|nn|nn|nn00524960|ml|0.5|nn|65km E of Big Pine, California
+us10004aq7|2016-01-01 10:28:52.940|-34.3384|-72.3718|19.64|us|us|us|us10004aq7|mb|4.4|us|97km WNW of Santa Cruz, Chile
+us10004aq6|2016-01-01 10:27:53.510|38.8837|72.5535|10|us|us|us|us10004aq6|mb|4.5|us|88km W of Karakul, Tajikistan
+ci37509360|2016-01-01 10:14:34.770|35.4845|-118.2901667|2.39|ci|ci|ci|ci37509360|ml|1.18|ci|22km ESE of Bodfish, California
+nc72572275|2016-01-01 10:13:31.300|40.0331667|-123.7636667|15.33|nc|nc|nc|nc72572275|md|1.87|nc|10km SSE of Redway, California
+ak12372425|2016-01-01 10:12:02.000|62.9398|-151.1931|126.6|ak|ak|ak|ak12372425|ml|1.7|ak|88km NW of Talkeetna, Alaska
+nc72572270|2016-01-01 10:06:35.240|38.8245|-122.829|7.68|nc|nc|nc|nc72572270|md|0.09|nc|8km NW of The Geysers, California
+ak12372424|2016-01-01 10:05:15.000|64.5695|-149.1873|15.5|ak|ak|ak|ak12372424|ml|0.5|ak|3km WSW of North Nenana, Alaska
+ak12439402|2016-01-01 09:50:19.000|67.0266|-165.8809|28.7|ak|ak|ak|ak12439402|ml|2.1|ak|86km N of Shishmaref, Alaska
+mb80118249|2016-01-01 09:44:05.680|46.0143333|-111.405|10.11|mb|mb|mb|mb80118249|ml|0.97|mb|17km NE of Three Forks, Montana
+nm60099522|2016-01-01 09:41:38.620|36.1773333|-89.457|10.02|nm|nm|nm|nm60099522|md|1.24|nm|9km SSE of Ridgely, Tennessee
+nc72572265|2016-01-01 09:30:02.330|38.8191681|-122.8193359|1.93|nc|nc|nc|nc72572265|md|0.56|nc|7km NW of The Geysers, California
+ak12439401|2016-01-01 09:29:25.000|57.1004|-154.3528|57.7|ak|ak|ak|ak12439401|ml|2.4|ak|53km SSW of Larsen Bay, Alaska
+mb80118244|2016-01-01 09:28:49.520|46.0113333|-111.407|7.97|mb|mb|mb|mb80118244|ml|1|mb|17km NE of Three Forks, Montana
+ak12372422|2016-01-01 09:21:18.000|59.5238|-152.8044|74.8|ak|ak|ak|ak12372422|ml|1.7|ak|61km WSW of Anchor Point, Alaska
+pr16001002|2016-01-01 09:18:26.300|18.7287|-65.097|20|pr|pr|pr|pr16001002|Md|2.6|pr|46km NNW of Charlotte Amalie, U.S. Virgin Islands
+us10004apy|2016-01-01 09:15:27.500|35.6661|-97.4027|6.088|tul|us|us|us10004apy|ml|2.5|tul|6km ENE of Edmond, Oklahoma
+us10004apx|2016-01-01 09:11:15.930|40.0709|30.5545|10|us|us|us|us10004apx|mb|4.1|us|5km NE of Saricakaya, Turkey
+us10004apw|2016-01-01 09:09:25.060|37.9288|72.5048|15.18|us|us|us|us10004apw|mb|4.5|us|94km ENE of Shughnon, Tajikistan
+nn00524950|2016-01-01 09:06:53.500|41.8837|-119.6129|4.7|nn|nn|nn|nn00524950|ml|1.1|nn|69km ESE of Lakeview, Oregon
+nn00524949|2016-01-01 09:02:37.003|41.8648|-119.6128|6.1|nn|nn|nn|nn00524949|ml|1.7|nn|70km ESE of Lakeview, Oregon
+us10004apt|2016-01-01 08:46:58.690|33.0632|141.5632|10|us|us|us|us10004apt|mb|4.6|us|164km E of Hachijo-jima, Japan
+ci37509352|2016-01-01 08:44:51.650|33.9361667|-116.3543333|6.77|ci|ci|ci|ci37509352|ml|0.7|ci|13km NNE of Thousand Palms, California
+nn00524948|2016-01-01 08:42:59.919|41.8655|-119.6142|10|nn|nn|nn|nn00524948|ml|2.3|nn|70km ESE of Lakeview, Oregon
+pr16001001|2016-01-01 08:41:23.400|19.2789|-68.1104|24|pr|pr|pr|pr16001001|Md|2.6|pr|83km NNE of Punta Cana, Dominican Republic
+nn00524955|2016-01-01 08:38:14.433|41.879|-119.6173|7.4|nn|nn|nn|nn00524955|ml|1.4|nn|69km ESE of Lakeview, Oregon
+nn00524947|2016-01-01 08:37:24.234|41.8554|-119.6158|8.6|nn|nn|nn|nn00524947|ml|1.9|nn|70km ESE of Lakeview, Oregon
+nc72572260|2016-01-01 08:36:16.950|38.7846667|-122.7746667|3.44|nc|nc|nc|nc72572260|md|1.41|nc|1km WNW of The Geysers, California
+ak12371550|2016-01-01 08:22:50.000|63.489|-149.6603|3.2|ak|ak|ak|ak12371550|ml|0.8|ak|37km WNW of Cantwell, Alaska
+se60099517|2016-01-01 07:59:08.700|35.872|-84.4383333|11.6|se|se|se|se60099517|md|2.27|se|6km E of Kingston, Tennessee
+nn00524946|2016-01-01 07:55:57.567|38.5095|-118.4107|4.8|nn|nn|nn|nn00524946|ml|0|nn|18km E of Hawthorne, Nevada
+nc72572250|2016-01-01 07:49:39.600|38.7095|-122.7763333|6.09|nc|nc|nc|nc72572250|md|1.1|nc|7km SSW of The Geysers, California
+nc72572245|2016-01-01 07:48:43.900|38.8483315|-122.793335|1.41|nc|nc|nc|nc72572245|md|0.76|nc|6km WNW of Cobb, California
+ak12371549|2016-01-01 07:45:46.000|51.6314|-179.0813|89|ak|ak|ak|ak12371549|ml|2.5|ak|41km N of Amatignak Island, Alaska
+ak12439397|2016-01-01 07:39:39.000|63.229|-150.4795|110.9|ak|ak|ak|ak12439397|ml|1.4|ak|78km WSW of Cantwell, Alaska
+ak12371546|2016-01-01 07:23:08.000|62.046|-145.0035|10|ak|ak|ak|ak12371546|ml|1.5|ak|29km ESE of Glennallen, Alaska
+mb80118239|2016-01-01 07:22:42.640|46.791|-112.0085|5|mb|mb|mb|mb80118239|md|1.01|mb|8km NNE of Helena Valley Northwest, Montana
+ci37509344|2016-01-01 07:22:23.360|34.1896667|-117.4011667|7.57|ci|ci|ci|ci37509344|ml|0.37|ci|4km S of Devore, California
+ci37509336|2016-01-01 07:15:54.930|34.0181667|-117.576|8.11|ci|ci|ci|ci37509336|ml|0.96|ci|6km SE of Ontario, California
+nc72572240|2016-01-01 07:11:46.830|37.6131667|-118.8671667|0.77|nc|nc|nc|nc72572240|md|0.45|nc|10km ESE of Mammoth Lakes, California
+ci37509328|2016-01-01 07:11:39.620|32.6121667|-115.7065|8.33|ci|ci|ci|ci37509328|ml|1.25|ci|12km WNW of Progreso, B.C., MX
+hv61139821|2016-01-01 07:09:05.410|19.3808333|-155.235|2.749|hv|hv|hv|hv61139821|ml|2.05|hv|5km S of Volcano, Hawaii
+us10004apm|2016-01-01 06:57:19.500|35.6721|-97.4084|5.779|tul|us|us|us10004apm|ml|2.5|tul|6km ENE of Edmond, Oklahoma
+nn00524945|2016-01-01 06:55:29.371|36.9821|-117.9863|14.8|nn|nn|nn|nn00524945|ml|0.7|nn|33km SE of Big Pine, California
+ci37509320|2016-01-01 06:48:33.100|32.6141667|-115.7006667|10.18|ci|ci|ci|ci37509320|ml|1.54|ci|12km WNW of Progreso, B.C., MX
+ci37509312|2016-01-01 06:46:13.380|36.4678333|-117.6291667|1.97|ci|ci|ci|ci37509312|ml|1.91|ci|40km ENE of Olancha, California
+nc72572230|2016-01-01 06:45:57.330|38.8074989|-122.7928314|0.24|nc|nc|nc|nc72572230|md|0.96|nc|4km NW of The Geysers, California
+nc72572235|2016-01-01 06:43:35.390|37.6153333|-118.8615|0.81|nc|nc|nc|nc72572235|md|0.32|nc|10km ESE of Mammoth Lakes, California
+mb80118504|2016-01-01 06:42:15.160|46.0103333|-111.4106667|5.88|mb|mb|mb|mb80118504|md|0.45|mb|17km NE of Three Forks, Montana
+nn00524943|2016-01-01 06:38:27.504|41.8455|-119.6356|9.4|nn|nn|nn|nn00524943|ml|1.7|nn|70km ESE of Lakeview, Oregon
+nn00524942|2016-01-01 06:27:50.240|41.8568|-119.612|6.2|nn|nn|nn|nn00524942|ml|1.7|nn|71km ESE of Lakeview, Oregon
+ci37509304|2016-01-01 06:26:34.500|35.7435|-117.597|10.52|ci|ci|ci|ci37509304|ml|0.85|ci|15km NNE of Ridgecrest, California
+ak12371540|2016-01-01 06:25:40.000|60.1958|-141.2902|0|ak|ak|ak|ak12371540|ml|1.6|ak|65km ENE of Cape Yakataga, Alaska
+ci37509296|2016-01-01 06:09:01.050|33.4975|-116.4828333|14.66|ci|ci|ci|ci37509296|ml|0.51|ci|19km ESE of Anza, California
+nc72572225|2016-01-01 06:05:42.370|38.8233333|-122.8063333|0.93|nc|nc|nc|nc72572225|md|1.21|nc|6km NW of The Geysers, California
+us10004api|2016-01-01 06:03:32.400|-31.5182|-71.5358|30.65|us|us|us|us10004api|mb|4.4|us|37km WNW of Illapel, Chile
+nn00524954|2016-01-01 06:00:51.540|41.9423|-119.6422|11.8|nn|nn|nn|nn00524954|ml|1.1|nn|64km ESE of Lakeview, Oregon
+nc72572220|2016-01-01 05:56:51.700|38.7994995|-122.7718353|1.09|nc|nc|nc|nc72572220|md|0.88|nc|2km NNW of The Geysers, California
+ak12439394|2016-01-01 05:54:29.000|51.3409|-174.3395|7|ak|ak|ak|ak12439394|ml|2|ak|95km S of Atka, Alaska
+nn00524941|2016-01-01 05:46:50.393|41.8786|-119.6145|7.1|nn|nn|nn|nn00524941|ml|2|nn|69km ESE of Lakeview, Oregon
+us10004aph|2016-01-01 05:46:17.430|-30.9008|-71.7693|7.13|us|us|us|us10004aph|mb|4.4|us|63km WSW of Ovalle, Chile
+ci37509288|2016-01-01 05:34:49.760|36.0281667|-117.7726667|1.99|ci|ci|ci|ci37509288|ml|0.7|ci|16km NE of Little Lake, California
+nc72572215|2016-01-01 05:29:22.410|35.7338333|-121.1221667|6.46|nc|nc|nc|nc72572215|md|1.88|nc|11km NNE of San Simeon, California
+us10004apg|2016-01-01 05:28:57.000|6.816|-73.152|150.8|rsnc|us|us|us10004apg|mb|4.3|us|12km E of Zapatoca, Colombia
+ak12370675|2016-01-01 05:27:38.000|53.6375|-165.8684|27.4|ak|ak|ak|ak12370675|ml|1.5|ak|51km ESE of Unalaska, Alaska
+nn00524964|2016-01-01 05:17:56.671|39.5423|-118.4512|8.6|nn|nn|nn|nn00524964|ml|0.9|nn|29km ENE of Fallon, Nevada
+ak12439392|2016-01-01 05:10:42.000|68.2349|-136.4626|27.3|ak|ak|ak|ak12439392|ml|2.9|ak|110km NW of Fort McPherson, Canada
+nn00524940|2016-01-01 05:05:40.553|38.5238|-118.5103|9|nn|nn|nn|nn00524940|ml|0|nn|9km E of Hawthorne, Nevada
+ci37509272|2016-01-01 05:04:23.580|34.0048333|-117.1926667|5.56|ci|ci|ci|ci37509272|ml|1.03|ci|6km S of Redlands, California
+ak12369807|2016-01-01 04:59:22.000|63.7883|-146.647|3.4|ak|ak|ak|ak12369807|ml|2.1|ak|52km WSW of Delta Junction, Alaska
+nc72572210|2016-01-01 04:51:07.590|40.211|-122.2273333|30.75|nc|nc|nc|nc72572210|md|1.59|nc|3km NNE of Red Bluff, California
+ak12369805|2016-01-01 04:48:01.000|61.764|-150.7399|65.5|ak|ak|ak|ak12369805|ml|1.7|ak|37km W of Willow, Alaska
+us10004bew|2016-01-01 04:47:11.480|12.7932|144.1769|28.12|us|us|us|us10004bew|mb|4.5|us|74km SW of Merizo Village, Guam
+ci37509264|2016-01-01 04:45:13.950|36.1166667|-118.0546667|1.11|ci|ci|ci|ci37509264|ml|2.03|ci|12km NW of Coso Junction, California
+ak12439389|2016-01-01 04:28:44.000|58.9061|-152.481|65.7|ak|ak|ak|ak12439389|ml|2|ak|97km SSW of Homer, Alaska
+ak12369804|2016-01-01 04:24:36.000|63.2959|-151.4416|9.7|ak|ak|ak|ak12369804|ml|1.2|ak|125km W of Cantwell, Alaska
+ak12439387|2016-01-01 04:22:32.000|50.5822|-174.9216|24.8|ak|ak|ak|ak12439387|ml|2.2|ak|186km SSW of Atka, Alaska
+ak12369802|2016-01-01 04:18:20.000|63.3749|-145.1497|1.3|ak|ak|ak|ak12369802|ml|1.4|ak|55km S of Deltana, Alaska
+us10004dcz|2016-01-01 04:12:16.520|10.6762|56.8668|10|us|us|us|us10004dcz|mb|4|us|Carlsberg Ridge
+ak12369799|2016-01-01 04:12:13.000|64.5834|-148.7776|11|ak|ak|ak|ak12369799|ml|0.8|ak|16km E of North Nenana, Alaska
+nn00524934|2016-01-01 03:59:13.954|38.0491|-118.9697|14.9|nn|nn|nn|nn00524934|ml|1|nn|32km SE of Bridgeport, California
+nn00524933|2016-01-01 03:57:44.557|38.5099|-118.4109|3.5|nn|nn|nn|nn00524933|ml|0.1|nn|18km E of Hawthorne, Nevada
+us10004dcy|2016-01-01 03:43:12.680|11.4949|-86.6366|58.77|us|us|us|us10004dcy|mb|4.1|us|34km SSW of Masachapa, Nicaragua
+ak12368937|2016-01-01 03:30:06.000|60.3879|-140.3208|0.2|ak|ak|ak|ak12368937|ml|1.6|ak|99km NNW of Yakutat, Alaska
+us10004ap5|2016-01-01 03:29:31.800|35.8976|-97.2462|6.862|tul|us|us|us10004ap5|ml|2.5|tul|5km S of Langston, Oklahoma
+us10004ap4|2016-01-01 03:26:08.910|40.8745|72.6379|40.3|us|us|us|us10004ap4|mb|4.3|us|18km NNW of Qurghontepa, Uzbekistan
+us10004dd2|2016-01-01 03:16:57.640|-25.379|-179.4803|415.3|us|us|us|us10004dd2|mb|4.1|us|South of the Fiji Islands
+nn00524936|2016-01-01 03:15:43.444|41.8857|-119.6086|5|nn|nn|nn|nn00524936|ml|1.1|nn|69km ESE of Lakeview, Oregon
+us10004ap1|2016-01-01 03:13:20.800|36.2873|-98.2198|6.292|tul|us|us|us10004ap1|ml|2.7|tul|20km NNE of Okeene, Oklahoma
+nc72572195|2016-01-01 03:04:12.360|38.8371658|-122.8311691|1.18|nc|nc|nc|nc72572195|md|0.43|nc|9km W of Cobb, California
+ak12368934|2016-01-01 03:02:38.000|63.297|-150.5051|3.2|ak|ak|ak|ak12368934|ml|1.4|ak|78km W of Cantwell, Alaska
+us10004dcw|2016-01-01 03:00:17.640|35.6383|141.7001|34.85|us|us|us|us10004dcw|mb|4.1|us|79km E of Hasaki, Japan
+ak12368933|2016-01-01 02:53:53.000|51.2294|-178.2932|53.3|ak|ak|ak|ak12368933|ml|2.4|ak|57km E of Amatignak Island, Alaska
+ismpkansas70164583|2016-01-01 02:52:55.500|37.2223333|-97.8791667|3.3|ismp|ismpkansas|ismp|ismpkansas70164583|ml|1.81|ismp|14km ESE of Harper, Kansas
+nn00524927|2016-01-01 02:44:20.767|41.8898|-119.5964|9.7|nn|nn|nn|nn00524927|ml|2.4|nn|70km ESE of Lakeview, Oregon
+ak12439381|2016-01-01 02:41:30.000|62.008|-151.2353|83.9|ak|ak|ak|ak12439381|ml|1.7|ak|68km WSW of Talkeetna, Alaska
+us10004any|2016-01-01 02:36:58.930|-12.4827|166.8215|94.07|us|us|us|us10004any|mb|4.4|us|173km NNW of Sola, Vanuatu
+nn00524925|2016-01-01 02:31:40.787|38.5135|-118.4105|2.8|nn|nn|nn|nn00524925|ml|-0.1|nn|18km E of Hawthorne, Nevada
+nn00524932|2016-01-01 02:15:09.367|41.8731|-119.623|8.4|nn|nn|nn|nn00524932|ml|1.9|nn|69km ESE of Lakeview, Oregon
+hv61139521|2016-01-01 02:06:45.820|19.5748333|-155.0621667|14.399|hv|hv|hv|hv61139521|ml|2.64|hv|3km S of Kurtistown, Hawaii
+us10004ant|2016-01-01 02:00:39.950|-50.5575|139.4489|10|us|us|us|us10004ant|mww|6.3|us|Western Indian-Antarctic Ridge
+ak12439380|2016-01-01 01:58:16.000|63.5974|-149.7681|19.9|ak|ak|ak|ak12439380|ml|0.9|ak|46km WNW of Cantwell, Alaska
+ak12439379|2016-01-01 01:45:58.000|52.432|-164.1689|16.3|ak|ak|ak|ak12439379|ml|2.4|ak|217km SSE of Akutan, Alaska
+ak12439378|2016-01-01 01:45:03.000|61.5693|-146.2119|40.2|ak|ak|ak|ak12439378|ml|1.4|ak|49km N of Valdez, Alaska
+nc72572180|2016-01-01 01:39:53.960|36.022|-120.594|5.45|nc|nc|nc|nc72572180|md|0.48|nc|24km WSW of Coalinga, California
+hv61139466|2016-01-01 01:36:25.370|19.3163338|-155.1013336|5.87|hv|hv|hv|hv61139466|md|1.8|hv|19km SE of Volcano, Hawaii
+nc72572175|2016-01-01 01:35:55.530|38.7879982|-122.7444992|0.78|nc|nc|nc|nc72572175|md|0.87|nc|1km NE of The Geysers, California
+nn00524915|2016-01-01 01:30:16.235|38.5242|-118.5138|9.2|nn|nn|nn|nn00524915|ml|0.2|nn|9km E of Hawthorne, Nevada
+nn00524910|2016-01-01 01:16:45.848|38.5147|-118.4136|8.2|nn|nn|nn|nn00524910|ml|0.5|nn|18km E of Hawthorne, Nevada
+nc72572170|2016-01-01 01:16:27.090|38.8198333|-122.7528333|3.73|nc|nc|nc|nc72572170|md|0.34|nc|2km W of Cobb, California
+ak12368065|2016-01-01 00:53:47.000|61.502|-152.4032|11.9|ak|ak|ak|ak12368065|ml|1.8|ak|108km NNW of Nikiski, Alaska
+ci37509256|2016-01-01 00:42:11.540|33.6341667|-116.742|17.64|ci|ci|ci|ci37509256|ml|0.38|ci|11km NW of Anza, California
+us10004anj|2016-01-01 00:37:58.700|42.5138|142.7227|89.9|us|us|us|us10004anj|mb|4|us|35km NE of Shizunai, Japan
+ak12368057|2016-01-01 00:37:53.000|61.5432|-152.3828|0.7|ak|ak|ak|ak12368057|ml|3.4|ak|111km NNW of Nikiski, Alaska
+nn00524900|2016-01-01 00:30:58.023|37.4485|-115.9455|12.3|nn|nn|nn|nn00524900|ml|1.3|nn|69km W of Alamo, Nevada
+pr16001000|2016-01-01 00:30:04.900|18.0771|-67.1026|19|pr|pr|pr|pr16001000|Md|2.8|pr|1km SSE of Monte Grande, Puerto Rico
+ci37509248|2016-01-01 00:21:42.980|34.1858333|-117.4001667|8.4|ci|ci|ci|ci37509248|ml|0.69|ci|4km S of Devore, California
+ci37509240|2016-01-01 00:18:09.190|34.0375|-117.2253333|14.66|ci|ci|ci|ci37509240|ml|0.76|ci|4km ESE of Loma Linda, California
+ci37509232|2016-01-01 00:12:50.650|34.1821667|-117.4161667|7.38|ci|ci|ci|ci37509232|ml|0.85|ci|5km SSW of Devore, California
+ak12368055|2016-01-01 00:11:16.000|64.9859|-147.3342|0|ak|ak|ak|ak12368055|ml|1.2|ak|22km NNE of Badger, Alaska

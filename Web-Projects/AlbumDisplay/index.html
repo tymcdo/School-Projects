@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pete's Music</title>
+    <link type="text/css" rel="stylesheet" href="css.css"/>
+    <script type="text/javascript" src="music.js"></script>
+</head>
+<body>
+<div id="welcome">
+    <div>Welcome to Pete's Music &#9835</div>
+    <div>
+        <div>Album Count:</div>
+        <div id="count"></div>
+    </div>
+    <div>Explore more below&#x2193</div>
+</div>
+<div id="buttons">
+    <button id="allList" onclick="displayMusic(true)">Show All</button>
+    <select id="years">
+        <option value="empty">empty</option>
+    </select>
+    <button id="dateList" onclick="displayMusic(false)">Search by Date</button>
+</div>
+<div class="itemHeader">
+    <div><span class="boldIt">Artist</span></div>
+    <div><span class="boldIt">Classification</span></div>
+    <div><span class="boldIt">Format</span></div>
+    <div><span class="boldIt">Label</span></div>
+    <div><span class="boldIt">Purchase Year</span></div>
+    <div><span class="boldIt">Release Year</span></div>
+    <div><span class="boldIt">Title</span></div>
+</div>
+<div id="easyRemove"></div>
+</body>
+
+<script type="text/javascript">
+    window.onload = getData();
+</script>
+</html>
